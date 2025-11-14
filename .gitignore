@@ -1,0 +1,18 @@
+# Garry's Mod
+*.gma
+*.cache
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Temporary files
+*.tmp
+*.bak
+*~

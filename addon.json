@@ -1,0 +1,10 @@
+{
+	"title": "Addon Template",
+	"type": "ServerContent",
+	"tags": ["fun", "realism"],
+	"ignore": [
+		"*.md",
+		"*.git*",
+		"LICENSE"
+	]
+}
